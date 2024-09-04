@@ -31,15 +31,15 @@ public class IncomeExpensesTracker extends JFrame {
         }
 
         //  Color schemes for swing components
-        UIManager.put("TextField.foreground", Color.white);
+        UIManager.put("TextField.foreground", Color.WHITE);
         UIManager.put("TextField.background", Color.LIGHT_GRAY);
         UIManager.put("TextField.caretForeground", Color.WHITE);
         UIManager.put("ComboBox.foreground", Color.CYAN);
-        UIManager.put("ComboBox.selectionForeground", Color.white);
-        UIManager.put("ComboBox.selectionBackground", Color.black);
-        UIManager.put("Button.foreground", Color.white);
+        UIManager.put("ComboBox.selectionForeground", Color.WHITE);
+        UIManager.put("ComboBox.selectionBackground", Color.BLACK);
+        UIManager.put("Button.foreground", Color.WHITE);
         UIManager.put("Button.background", Color.GREEN.darker());
-        UIManager.put("Label.foreground", Color.white);
+        UIManager.put("Label.foreground", Color.WHITE);
 
         // set the default font for the entire application
         Font customFont = new Font("arial", Font.PLAIN, 18);
