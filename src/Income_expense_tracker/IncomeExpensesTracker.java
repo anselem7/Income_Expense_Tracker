@@ -33,7 +33,7 @@ public class IncomeExpensesTracker extends JFrame {
         //  Color schemes for swing components
         UIManager.put("TextField.foreground", Color.white);
         UIManager.put("TextField.background", Color.LIGHT_GRAY);
-        UIManager.put("TextField.caretForeground", Color.white);
+        UIManager.put("TextField.caretForeground", Color.WHITE);
         UIManager.put("ComboBox.foreground", Color.CYAN);
         UIManager.put("ComboBox.selectionForeground", Color.white);
         UIManager.put("ComboBox.selectionBackground", Color.black);
